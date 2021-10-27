@@ -1,5 +1,5 @@
 {
-    "name": "curso/digital-cep",
+    "name": "elton/digital-cep",
     "description": "Busca de cep online",
     "type": "library",
     "license": "MIT", 
