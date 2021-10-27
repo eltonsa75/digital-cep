@@ -1,0 +1,23 @@
+{
+    "name": "curso/digital-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT", 
+    "authors": [
+        {
+            "name": "Elton Andrade",
+            "email": "eltonsa75@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Curso\\Digitalcep\\": "src/" 
+        }
+    }
+}
